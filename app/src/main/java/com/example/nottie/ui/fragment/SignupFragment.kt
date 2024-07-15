@@ -26,6 +26,7 @@ class SignupFragment : Fragment() {
     private var _binding : FragmentSignupBinding? = null
     private val binding get() = _binding!!
 
+
     private val RC_SIGN_IN = 9001
     private val webClientId: String = "844647513129-v0lf23v17a2p1o6ohvf7er9hevhbk4ac.apps.googleusercontent.com"
     private lateinit var sharedPreferences: SharedPreferences
