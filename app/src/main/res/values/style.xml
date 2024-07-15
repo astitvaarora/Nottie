@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomStyle" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:fontFamily">@font/figtreesemibold</item>
+        <item name="android:background">@color/backgroundColor</item>
+        <item name="iconTint">#FF0000</item>
+        <item name="cornerRadius">4dp</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeColor">@color/red</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nottie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="let_s_organize_your_nottie">Let\'s Organize\nYour Nottie</string>
+    <string name="make_your_todo_in_the_note_and_manage_your_priority_activity_in_daily_life_to_achieve_goals">Make your todo in the note and\nmanage your priority activity in\ndaily life to achieve goals.</string>
+</resources>
